@@ -1,6 +1,6 @@
 - Hi, I’m @taosifahsan
-- I’m interested in physics and simulations 
-- I’m looking to collaborate on constructing various accurate and efficient simulation algorithms
+- I’m interested in physics, fractals, and simulations
+- I’m looking to collaborate on constructing various accurate and efficient simulation algorithms using various data structures, taking advantage of Numpy or other built-in packages
 - How to reach me taosif@mit.edu
 
 <!---
