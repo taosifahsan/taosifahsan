@@ -1,3 +1,15 @@
+# The code plots the newton-raphson iteration fractal for any given polynomial for any set of roots
+# run by writing the following in terminal
+# >python3 [codename.py] N_grid N_roots Num_steps
+
+# N_grid*N_grid is the pixel number
+# N_roots number of roots
+# Num_steps gives the number of iterations in the fractal
+
+# def roots(N, spread) method can be used to manually set roots to be whatever we desire in complex plain
+# by writing the return [z1, z2, ...., zn] array. Currently, it automatically chooses default sets of 
+# randomized roots
+
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
