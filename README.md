@@ -1,6 +1,5 @@
 - Hi, I’m @taosifahsan
-- I’m interested in physics and simulations 
-- I’m looking to collaborate on constructing various accurate and efficient simulation algorithms
+- I’m interested in nuclear fusion related physics and simulations 
 - How to reach me taosif@mit.edu
 
 <!---
